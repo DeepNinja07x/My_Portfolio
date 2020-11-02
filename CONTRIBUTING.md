@@ -5,8 +5,8 @@
   
 -  Fork this [repository](https://github.com/DeepNinja07x/My_Portfolio)
   
--  Clone the forked https://github.com/<Your_Username>/To-Do-App
-    > git clone https://github.com/<Your_Username>/To-Do-App
+-  Clone the forked https://github.com/<Your_Username>/My_Portfolio
+    > git clone https://github.com/<Your_Username>/My_Portfolio.git
 
 -  Create new branch 
     > git checkout -b <Your_Branch_Name>
@@ -35,7 +35,7 @@
 
 - Add the upstream (main project's) repo's URL
 
-    > git remote add upstream https://github.com/DeepNinja07x/To-Do-App.git
+    > git remote add upstream https://github.com/DeepNinja07x/My_Portfolio.git
 
 - Now fetch all the new commits from upstream to your local repo.
 
